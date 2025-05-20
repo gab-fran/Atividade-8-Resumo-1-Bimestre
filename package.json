@@ -1,0 +1,28 @@
+{
+  "name": "programacao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gabriel",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "typescript-require": "^0.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gab-fran/Atividades-do-curso.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gab-fran/Atividades-do-curso/issues"
+  },
+  "homepage": "https://github.com/gab-fran/Atividades-do-curso#readme",
+  "description": ""
+}
